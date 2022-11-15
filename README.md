@@ -21,6 +21,15 @@ Aplikasi ini menerpakan metode CRUD dengna role dari sisi user dan admin
 4. [x] Shopping bag chart
 
 ## Tech Stack
-1. 
+1. PostgreSQL
+2. Sequelize
+3. Json Web Token
+4. Bcrypt
+5. Express.js
+6. Node.js
+7. axios
+8. React.js
+9. React-redux
+10. React-thunk
 
 
