@@ -1,3 +1,4 @@
+[Click Link Deploy Here](https://astounding-yeot-72096f.netlify.app/)
 # Fashion Street
 Adalah aplikasi yang akan memudahkan user untuk menemukan fashion brand terbaiknya. 
 Aplikasi ini menerpakan metode CRUD dengna role dari sisi user dan admin
